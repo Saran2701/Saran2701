@@ -12,7 +12,7 @@
 - 🎓 I’m currently learning *DSA, Java Collections, and Frameworks*
 - 💬 Ask me about *Java, DSA, Problem Solving*
 - 📬 Reach me at: *ssaran2701@gmail.com*
-- 📄 [📝 Check out my Resume](https://drive.google.com/file/d/1N_FXW8hYE-oGZf21phLMUkGCLvsfnfaH/view?usp=drive_link)
+- 📄 [📝 Check out my Resume](https://drive.google.com/file/d/1J_-zkBkr7ezu9c9_ndAqtqGXLUdVruW7/view?usp=drive_link)
 - ⚡ Fun fact: “My code works... until someone else runs it.”
 ---
 
