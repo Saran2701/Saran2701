@@ -11,7 +11,7 @@
 - 🎓 Currently diving deep into *DSA, Java Collections & Frameworks*  
 - 💬 Ask me about *Java, DSA, and Problem Solving*  
 - 📬 Reach me at: **ssaran2701@gmail.com**  
-- 📄 [📝 Check out my Resume](https://drive.google.com/file/d/1J_-zkBkr7ezu9c9_ndAqtqGXLUdVruW7/view?usp=drive_link)  
+- 📄 [📝 Check out my Resume](https://drive.google.com/file/d/1nT_p7895S32oFj7G22ZF1w1vQF2oEsfx/view?usp=sharing)  
 - ⚡ Fun fact: *"My code works... until someone else runs it."*  
 
 ---
